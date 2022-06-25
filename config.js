@@ -50,7 +50,7 @@ global.location = "India, Mizoram, Aizawl" //ur location
 //bot bombdy
 global.botname = "ʙᴀsᴇ-ᴍᴅ" //ur bot name
 global.websitex = "https://toxic-kichu.github.io" //ur website
-global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
+global.vidmenu = { url: 'https://a.uguu.se/suPOANin.mp4' } //gif and video menu
 global.packname = "ᴛᴏxɪᴄ-ᴋɪᴄʜᴜ"
 global.author = "ᴛᴏxɪᴄ-ᴋɪᴄʜᴜ"
 global.themeemoji = "🐶"
